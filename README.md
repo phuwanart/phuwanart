@@ -43,12 +43,8 @@ A Ruby on Rails developer
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/phuwanart" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=phuwanart&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></a>
-
-
 <a href="http://www.github.com/phuwanart"><img src="https://github-readme-stats.vercel.app/api?username=phuwanart&show_icons=true&locale=en" alt="phuwanart's GitHub stats" /></a>
-
 <a href="http://www.github.com/phuwanart" align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phuwanart&" /></a>
-
 
 ### Support Me
 
