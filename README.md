@@ -46,8 +46,6 @@ A Ruby on Rails developer
 
 <a href="http://www.github.com/phuwanart"><img src="https://github-readme-stats.vercel.app/api?username=phuwanart&show_icons=true&locale=en" alt="phuwanart's GitHub stats" /></a>
 
-<a href="http://www.github.com/phuwanart" align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=phuwanart&" /></a>
-
 ### Support Me
 
 <p align="left">
