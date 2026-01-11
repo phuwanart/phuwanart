@@ -38,14 +38,6 @@ A Ruby on Rails developer
 <a href="https://phuwanart.github.io/feed.xml" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> </picture> </a> 
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="https://github.com/phuwanart" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=phuwanart&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/phuwanart"><img src="https://github-readme-stats.vercel.app/api?username=phuwanart&show_icons=true&locale=en" alt="phuwanart's GitHub stats" /></a>
-
 ### Support Me
 
 <p align="left">
