@@ -3,7 +3,7 @@
 # Hi 👋, I'm Phuwanart Larpmark
 
 <a href="https://github.com/phuwanart">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=460&lines=Ruby+on+Rails+Developer;Crafting+web+apps+from+Bangkok+%F0%9F%87%B9%F0%9F%87%AD;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=480&lines=Ruby+on+Rails+Developer;Crafting+web+apps+from+Bangkok+%F0%9F%87%B9%F0%9F%87%AD;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 <p>
@@ -47,24 +47,17 @@
 
 ### 🌐 Connect with me
 
-<p align="left">
-<a href="https://www.github.com/phuwanart" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
-<a href="https://www.linkedin.com/in/phuwanart" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
-<a href="https://phuwanart.hashnode.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /> </a>
-<a href="http://www.medium.com/@phuwanart" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /> </a>
-<a href="https://www.dev.to/phuwanart" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /> </a>
-<a href="https://www.stackoverflow.com/users/65964/phuwanart" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /> </a>
-<a href="https://www.youtube.com/@PhuwanartLarpmark" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /> </a>
-<a href="https://www.x.com/phuwanart" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /> </a>
-<a href="https://www.facebook.com/phuwanart" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a>
-<a href="https://phuwanart.github.io/feed.xml" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="RSS" /> </a>
-</p>
-
----
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/phuwanart)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuwanart)
+[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://phuwanart.hashnode.dev)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@phuwanart)
+[![Dev.to](https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://www.dev.to/phuwanart)
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://www.stackoverflow.com/users/65964/phuwanart)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PhuwanartLarpmark)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/phuwanart)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/phuwanart)
+[![RSS](https://img.shields.io/badge/-RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://phuwanart.github.io/feed.xml)
 
 ### ☕ Support my work
 
-<p align="left">
-  <a href="https://www.buymeacoffee.com/phuwanart" target="_blank" rel="noreferrer"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" /> </a>
-  <a href="https://www.ko-fi.com/phuwanart" target="_blank" rel="noreferrer"> <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Ko-fi" /> </a>
-</p>
+<p align="left"><a href="https://www.buymeacoffee.com/phuwanart" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" /></a> <a href="https://www.ko-fi.com/phuwanart" target="_blank" rel="noreferrer"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Ko-fi" /></a></p>
