@@ -48,11 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=phuwanart&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=phuwanart&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=phuwanart&theme=default&hide_border=true" alt="GitHub streak" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=phuwanart&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 ### 🌐 Connect with me
