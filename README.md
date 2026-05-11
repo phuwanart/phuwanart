@@ -45,12 +45,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=phuwanart&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
-
 ### 🌐 Connect with me
 
 <p align="left">
