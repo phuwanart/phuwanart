@@ -14,6 +14,12 @@
 
 ### 👨‍💻 About me
 
+- 🌏 &nbsp; Based in **Bangkok, Thailand**
+- 💼 &nbsp; Ruby on Rails developer
+- 🌱 &nbsp; Currently working on **improving Rails performance & exploring Hotwire**
+- ✉️ &nbsp; Reach me at [phuwanart@outlook.com](mailto:phuwanart@outlook.com)
+- 📝 &nbsp; I write on [Hashnode](https://phuwanart.hashnode.dev) · [Medium](https://medium.com/@phuwanart) · [Dev.to](https://dev.to/phuwanart)
+
 ### 🛠️ Tech Stack
 
 ### 📊 GitHub Stats
