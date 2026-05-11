@@ -49,19 +49,6 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pied.vercel.app/api?username=phuwanart&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pied.vercel.app/api?username=phuwanart&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats-pied.vercel.app/api?username=phuwanart&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="Phuwanart's GitHub stats" height="170" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pied.vercel.app/api/top-langs?username=phuwanart&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pied.vercel.app/api/top-langs?username=phuwanart&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img src="https://github-readme-stats-pied.vercel.app/api/top-langs?username=phuwanart&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" height="170" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=phuwanart&theme=tokyonight&hide_border=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=phuwanart&theme=default&hide_border=true" />
     <img src="https://streak-stats.demolab.com?user=phuwanart&theme=default&hide_border=true" alt="GitHub streak" />
