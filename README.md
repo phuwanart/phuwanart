@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About me
 
-- 🌏 &nbsp; Based in **Bangkok, Thailand**
-- 💼 &nbsp; Ruby on Rails developer
-- 🌱 &nbsp; Currently working on **improving Rails performance & exploring Hotwire**
-- ✉️ &nbsp; Reach me at [phuwanart@outlook.com](mailto:phuwanart@outlook.com)
-- 📝 &nbsp; I write on [Hashnode](https://phuwanart.hashnode.dev) · [Medium](https://medium.com/@phuwanart) · [Dev.to](https://dev.to/phuwanart)
+- 🌏 Based in **Bangkok, Thailand**
+- 💼 Ruby on Rails developer
+- 🌱 Currently working on **improving Rails performance & exploring Hotwire**
+- ✉️ Reach me at [phuwanart@outlook.com](mailto:phuwanart@outlook.com)
+- 📝 I write on [Hashnode](https://phuwanart.hashnode.dev) · [Medium](https://medium.com/@phuwanart) · [Dev.to](https://dev.to/phuwanart)
 
 ### 🛠️ Tech Stack
 
@@ -32,28 +32,25 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Database**
+**Database & Tools**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools**
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🌐 Connect with me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/phuwanart)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phuwanart)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuwanart)
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://phuwanart.hashnode.dev)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@phuwanart)
-[![Dev.to](https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://www.dev.to/phuwanart)
-[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://www.stackoverflow.com/users/65964/phuwanart)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@phuwanart)
+[![Dev.to](https://img.shields.io/badge/-dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/phuwanart)
+[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/65964/phuwanart)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PhuwanartLarpmark)
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/phuwanart)
+[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/phuwanart)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/phuwanart)
 [![RSS](https://img.shields.io/badge/-RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://phuwanart.github.io/feed.xml)
 
 ### ☕ Support my work
 
-<p align="left"><a href="https://www.buymeacoffee.com/phuwanart" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me a Coffee" /></a> <a href="https://www.ko-fi.com/phuwanart" target="_blank" rel="noreferrer"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Ko-fi" /></a></p>
+<p align="left"><a href="https://buymeacoffee.com/phuwanart" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me a Coffee" /></a> <a href="https://ko-fi.com/phuwanart" target="_blank" rel="noreferrer"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" height="40" alt="Ko-fi" /></a></p>
